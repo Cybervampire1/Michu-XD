@@ -8,11 +8,11 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "malvin~gvMU2aJZ#faB5u7NZ_0U_NXXgOiEXHK__HE_2gLrij4Zjcvzclj0",
 // add your Session Id make sure it starts with malvin~
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || "🫦",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "ღ᭄ɪᴄ፝֟ʜᴜ  ຮꫀʈʈ𝘢ꪀ🦢🍷🖇️",
 // add bot name here for menu
-MODE: process.env.MODE || "public",
+MODE: process.env.MODE || "private",
 // make bot public-private-inbox-group 
 
 LINK_WHITELIST: "https://chat.whatsapp.com/Byg04swKjlT9brPYPCkcCQ",
